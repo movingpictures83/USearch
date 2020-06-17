@@ -1,0 +1,2 @@
+Prefix plugins/USearch/example
+Plugin USearch inputfile parameters.txt outputfile nr.fasta
