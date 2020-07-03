@@ -1,7 +1,9 @@
+# USearch
 # Language: C++
 # Input: TXT
 # Output: FASTA
 # Tested with: PluMA 1.0, GCC 4.8.4
+# Dependencies: USearch 11.0
 
 PluMA plugin that clusters reads using USearch (Edgar et al, 2010).
 
