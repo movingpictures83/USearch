@@ -1,0 +1,2 @@
+sequences	plugins/USearch/example/HMP_MOCK.v35.fasta
+id	0.9
